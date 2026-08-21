@@ -224,11 +224,6 @@ CREATE TABLE `participants` (
 --
 
 INSERT INTO `participants` (`id`, `nama`, `usia`, `jenis_kelamin`, `tanggal_tes`, `most_d`, `most_i`, `most_s`, `most_c`, `least_d`, `least_i`, `least_s`, `least_c`, `change_d`, `change_i`, `change_s`, `change_c`, `most_profil_idx`, `most_profil_kode`, `most_profil_nama`, `least_profil_idx`, `least_profil_kode`, `least_profil_nama`, `change_profil_idx`, `change_profil_kode`, `change_profil_nama`, `profil_kode`, `profil_nama`, `created_at`) VALUES
-(1, 'Hafid', 25, 'Laki-laki', '2026-07-26 16:46:08', 2, 1, 8, 13, 9, 12, 1, 2, -7, -11, 7, 11, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'C', 'LOGICAL THINKER', '2026-07-26 16:46:08'),
-(2, 'Hafid', 25, 'Laki-laki', '2026-07-26 16:56:39', 6, 0, 8, 10, 8, 5, 5, 6, -2, -5, 3, 4, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'C-S', 'PERFECTIONIST', '2026-07-26 16:56:39'),
-(4, 'Audiyah Dini Maharani', 20, 'Perempuan', '2026-07-27 09:51:11', 5, 3, 1, 9, 4, 6, 6, 2, 1, -3, -5, 7, 1, 'C', 'LOGICAL THINKER', 38, 'C-D-S', 'CONTEMPLATOR', 3, 'D / C-D', 'DESIGNER', NULL, NULL, '2026-07-27 09:51:11'),
-(5, 'Latifah Kurnia Devani', 28, 'Perempuan', '2026-07-27 09:59:46', 4, 5, 4, 6, 3, 5, 8, 5, 1, 0, -4, 1, 26, 'I-C', 'ASSESSOR', 18, 'D-C', 'CHALLENGER', 37, 'C-D-I', 'CHALLENGER', NULL, NULL, '2026-07-27 09:59:46'),
-(6, 'MUHAMMAD HAFID HIDAYAT', 25, 'Laki-laki', '2026-07-27 10:39:26', 2, 3, 9, 6, 7, 7, 2, 1, -5, -4, 7, 5, 17, 'S-C', 'PEACEMAKER, RESPECTFULL & ACCURATE', 16, 'S / C-S', 'PERFECTIONIST', 16, 'S / C-S', 'PERFECTIONIST', NULL, NULL, '2026-07-27 10:39:26');
 
 -- --------------------------------------------------------
 
